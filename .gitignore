@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# Visual Studio artifacts folder
+.vs/
+*/.vs/
+*/out/
+*/*/.vs/
+*/*/out/
+
+# Visual Studio Code artifacts folder
+.vscode/
